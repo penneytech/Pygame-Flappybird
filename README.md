@@ -519,3 +519,11 @@ Try these once the basic game is working:
 3. **Sound** — add `pygame.mixer.Sound("flap.wav").play()` on every flap.
 4. **High score** — save the best score to a `.txt` file between sessions.
 5. **Sprite image** — load a PNG with `pygame.image.load("bird.png")` and draw it with `screen.blit()` instead of a circle.
+
+---
+
+## Grading
+
+- Code complete and running (10 marks)
+- Comments done ( 5 marks)
+- Choose and complete **one extension challenge** from above. (5 marks)
