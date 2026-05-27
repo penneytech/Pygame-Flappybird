@@ -21,9 +21,6 @@
 A working Flappy Bird game, one small piece at a time. Each step adds something new and the game runs at the end of every step. The goal of this is to get you thinking about how a game engine works, how a game loop works, and how might you build another game in the future if you wanted to.
 
 
-**The finished file** is `flappy_bird.py` — you can look at it any time, but try to type each step yourself first.
-
-
 ---
 
 
@@ -120,7 +117,7 @@ bird_y = 300
 ```
 
 
-Then, **inside the game loop**, replace `# 2. Draw` with:
+Then, **inside the game loop**, add to the  `# 2. Draw` section:
 
 
 ```python
